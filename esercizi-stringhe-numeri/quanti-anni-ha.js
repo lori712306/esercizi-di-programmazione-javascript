@@ -11,3 +11,9 @@
 
   http://www.imparareaprogrammare.it
 */
+var currentyear = 2021;
+var birthdayear = 1991;
+var n = 100;
+
+var age = console.log(currentyear-birthayear);
+var difference = console.log(n-(currentyear-birthdayear));
