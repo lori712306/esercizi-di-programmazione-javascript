@@ -17,3 +17,7 @@
 
   http://www.imparareaprogrammare.it
 */
+var gatti = 50;
+var gattinfila = 9;
+var risultato=console.log( Math.ceil(gatti/gattinfila));
+var resto=console.log(gatti%gattinfila);
