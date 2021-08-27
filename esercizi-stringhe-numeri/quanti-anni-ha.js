@@ -11,3 +11,10 @@
 
   http://www.imparareaprogrammare.it
 */
+var currentyear = 2018;
+var birthday = 1991;
+var n = 100;
+
+
+var age = console.log(currentyear-birthday);
+var resto = console.log(n-(currentyear-birthday));
