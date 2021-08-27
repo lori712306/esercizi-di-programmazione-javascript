@@ -12,3 +12,12 @@
 
   http://www.imparareaprogrammare.it
 */
+var secondi = 12560;
+var minuti = 60;
+
+
+console.log(Math.round(secondi/60));
+
+var rounddown = Math.round(secondi/60);
+
+console.log(Math.round(rounddown/60));
